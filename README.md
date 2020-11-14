@@ -3,7 +3,7 @@ Bolt IoT Project
 
 ## Objective : This project system reminds to wear a mask when you go out from the home
 
-![](Images/Bolt%20front%20page.jpg)
+<img src="Images/Bolt%20front%20page.jpg" width="600"/>
 
 ## Requirements :
 
@@ -39,15 +39,15 @@ Step 2] If you have not already done so, [click here](https://info.boltiot.com/h
 
 Step 3] Now make the hardware connections as shown in the figure below.
 
-![](Images/Circuit%20Diagram.png)
+<img src="Images/Circuit%20Diagram.png" width="400"/>
 
 Step 4] Place the Bolt WiFi module along with the breadboard just at the entrance of your house such that whenever a person comes in, his shadow should fall on the circuit
 
-![](Images/LDR%20Circuit%20and%20bolt%20wifi%20module.jpg)
+<img src="Images/LDR%20Circuit%20and%20bolt%20wifi%20module.jpg" width="400"/>
 
 Step 5] Place the buzzer on a mask stand so whenever buzzer is on our attention goes towards the mask.
 
-![](Images/Buzzer%20at%20mask%20stand.jpg)
+<img src="Images/Buzzer%20at%20mask%20stand.jpg" width="400"/>
 
 ## Creating an account on Twilio
 
@@ -139,7 +139,7 @@ At the same time we receive SMS on our mobile
 
 "Please Don't forget to wear your mask"
 
-![](Images/SMS%20Screenshot.jpg)
+<img src="Images/SMS%20Screenshot.jpg" width="400"/>
 
 So this will remind us to wear mask when we going out of the house
 

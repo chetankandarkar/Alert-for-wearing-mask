@@ -10,7 +10,7 @@ Bolt IoT Project
 #### Hardware components
 
 - Bolt IoT Bolt WiFi Module
-- LDR, 5 Ohm
+- LDR, 5 ohm
 - Buzzer
 - Resistor 10k ohm	
 - Breadboard (generic)	

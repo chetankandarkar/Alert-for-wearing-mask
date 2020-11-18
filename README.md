@@ -10,7 +10,7 @@ Bolt IoT Project
 #### Hardware components
 
 - Bolt IoT Bolt WiFi Module
-- LDR, 5 Mohm
+- LDR, 5 Ohm
 - Buzzer
 - Resistor 10k ohm	
 - Breadboard (generic)	
@@ -20,7 +20,6 @@ Bolt IoT Project
 #### Software apps and online services
 
 - Bolt IoT Bolt Cloud
-- SMS Messaging API	
 - Twilio SMS Messaging API
 - VM VirtualBox
 
